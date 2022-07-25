@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Move by example</title>
+    <link>/</link>
+    <description>Recent content on Move by example</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 24 Jul 2022 20:14:39 +1000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>/examples/hello-world/</link>
+      <pubDate>Thu, 14 Jul 2022 10:02:37 +1000</pubDate>
+      
+      <guid>/examples/hello-world/</guid>
+      <description>Coming soon!</description>
+    </item>
+    
+    <item>
+      <title>基本类型</title>
+      <link>/examples/%E5%9F%BA%E6%9C%AC%E7%B1%BB%E5%9E%8B/</link>
+      <pubDate>Sun, 24 Jul 2022 10:06:37 +1000</pubDate>
+      
+      <guid>/examples/%E5%9F%BA%E6%9C%AC%E7%B1%BB%E5%9E%8B/</guid>
+      <description>Move基本类型包括：整型（u8, u64, u128）, 布尔型boolean 和地址address
+Coming soon!</description>
+    </item>
+    
+    <item>
+      <title>变量</title>
+      <link>/examples/%E5%8F%98%E9%87%8F/</link>
+      <pubDate>Sun, 24 Jul 2022 19:30:08 +1000</pubDate>
+      
+      <guid>/examples/%E5%8F%98%E9%87%8F/</guid>
+      <description>Coming Soon!</description>
+    </item>
+    
+    <item>
+      <title>常量</title>
+      <link>/examples/%E5%B8%B8%E9%87%8F/</link>
+      <pubDate>Sun, 24 Jul 2022 19:27:37 +1000</pubDate>
+      
+      <guid>/examples/%E5%B8%B8%E9%87%8F/</guid>
+      <description>Coming soon!</description>
+    </item>
+    
+    <item>
+      <title>数组</title>
+      <link>/examples/%E6%95%B0%E7%BB%84/</link>
+      <pubDate>Sun, 24 Jul 2022 19:30:08 +1000</pubDate>
+      
+      <guid>/examples/%E6%95%B0%E7%BB%84/</guid>
+      <description>Coming soon!</description>
+    </item>
+    
+    <item>
+      <title>结构体</title>
+      <link>/examples/%E7%BB%93%E6%9E%84%E4%BD%93/</link>
+      <pubDate>Sun, 24 Jul 2022 19:30:08 +1000</pubDate>
+      
+      <guid>/examples/%E7%BB%93%E6%9E%84%E4%BD%93/</guid>
+      <description>Coming soon!</description>
+    </item>
+    
+    <item>
+      <title>引用</title>
+      <link>/examples/%E5%BC%95%E7%94%A8/</link>
+      <pubDate>Sun, 24 Jul 2022 19:30:08 +1000</pubDate>
+      
+      <guid>/examples/%E5%BC%95%E7%94%A8/</guid>
+      <description>Coming soon!</description>
+    </item>
+    
+    <item>
+      <title>If / Else</title>
+      <link>/examples/if-/-else/</link>
+      <pubDate>Sun, 24 Jul 2022 19:27:37 +1000</pubDate>
+      
+      <guid>/examples/if-/-else/</guid>
+      <description>Comming soon!</description>
+    </item>
+    
+    <item>
+      <title>While / Loop</title>
+      <link>/examples/while-/-loop/</link>
+      <pubDate>Sun, 24 Jul 2022 19:27:37 +1000</pubDate>
+      
+      <guid>/examples/while-/-loop/</guid>
+      <description>Comming soon!</description>
+    </item>
+    
+    <item>
+      <title>函数</title>
+      <link>/examples/%E5%87%BD%E6%95%B0/</link>
+      <pubDate>Sun, 24 Jul 2022 19:30:08 +1000</pubDate>
+      
+      <guid>/examples/%E5%87%BD%E6%95%B0/</guid>
+      <description>Coming soon!</description>
+    </item>
+    
+    <item>
+      <title>泛型</title>
+      <link>/examples/%E6%B3%9B%E5%9E%8B/</link>
+      <pubDate>Sun, 24 Jul 2022 19:30:08 +1000</pubDate>
+      
+      <guid>/examples/%E6%B3%9B%E5%9E%8B/</guid>
+      <description>Coming soon!</description>
+    </item>
+    
+    <item>
+      <title>模块</title>
+      <link>/examples/%E6%A8%A1%E5%9D%97/</link>
+      <pubDate>Sun, 24 Jul 2022 19:30:08 +1000</pubDate>
+      
+      <guid>/examples/%E6%A8%A1%E5%9D%97/</guid>
+      <description>Coming soon!</description>
+    </item>
+    
+    <item>
+      <title>资源</title>
+      <link>/examples/%E8%B5%84%E6%BA%90/</link>
+      <pubDate>Sun, 24 Jul 2022 19:30:08 +1000</pubDate>
+      
+      <guid>/examples/%E8%B5%84%E6%BA%90/</guid>
+      <description>Coming soon!</description>
+    </item>
+    
+    <item>
+      <title>Abort / Assert</title>
+      <link>/examples/abort-/-assert/</link>
+      <pubDate>Sun, 24 Jul 2022 19:30:08 +1000</pubDate>
+      
+      <guid>/examples/abort-/-assert/</guid>
+      <description>Coming soon!</description>
+    </item>
+    
+    <item>
+      <title>导入</title>
+      <link>/examples/%E5%AF%BC%E5%85%A5/</link>
+      <pubDate>Sun, 24 Jul 2022 19:30:08 +1000</pubDate>
+      
+      <guid>/examples/%E5%AF%BC%E5%85%A5/</guid>
+      <description>Coming soon!</description>
+    </item>
+    
+    <item>
+      <title>Abilities</title>
+      <link>/examples/abilities/</link>
+      <pubDate>Sun, 24 Jul 2022 19:30:08 +1000</pubDate>
+      
+      <guid>/examples/abilities/</guid>
+      <description>Coming soon!</description>
+    </item>
+    
+    <item>
+      <title>单元测试</title>
+      <link>/examples/%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95/</link>
+      <pubDate>Sun, 24 Jul 2022 19:30:08 +1000</pubDate>
+      
+      <guid>/examples/%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95/</guid>
+      <description>Coming soon!</description>
+    </item>
+    
+    <item>
+      <title>Coin</title>
+      <link>/examples/coin/</link>
+      <pubDate>Sun, 24 Jul 2022 19:30:08 +1000</pubDate>
+      
+      <guid>/examples/coin/</guid>
+      <description>Coming soon!</description>
+    </item>
+    
+    <item>
+      <title>NFT</title>
+      <link>/examples/nft/</link>
+      <pubDate>Sun, 24 Jul 2022 19:30:08 +1000</pubDate>
+      
+      <guid>/examples/nft/</guid>
+      <description>Coming soon!</description>
+    </item>
+    
+  </channel>
+</rss>
